@@ -1,8 +1,2 @@
-streamlit==1.38.0
-Pillow==10.4.0
-torch==2.2.2
-torchvision==0.17.2
-torchaudio==2.2.2
-scikit-learn==1.5.2
-pandas==2.2.2
-matplotlib==3.9.2
+streamlit
+Pillow

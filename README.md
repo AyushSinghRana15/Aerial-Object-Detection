@@ -27,11 +27,17 @@ A deep learning project for **aerial image classification**, distinguishing betw
 ## Project Structure
 
 ├── aerial.py                  # Streamlit app 
+
 ├── Aerial Classification.ipynb  # Training & analysis notebook 
+
 ├── classification_Dataset/    # Classification dataset 
+
 ├── object_detection_Dataset/  # detection dataset
+
 ├── *.pth / *.pt               # Trained model weights (Git LFS)
+
 ├── requirements.txt           # Python dependencies 
+
 └── runtime.txt                # Python version for deployment
 
 
